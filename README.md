@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Tokashev Ramil
 
-You can use the [editor on GitHub](https://github.com/rtokashev/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Software Engineer<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:azerot12123@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ramil-tokashev/) / [GitHub](https://github.com/rtokashev)
 
-### Markdown
+## Experience
+- **Python Backend Developer** @ [Kazdream Technologies](https://www.linkedin.com/company/kazdream-technologies-llc/mycompany/) _(Jan 2021 - Present)_ <br>
+  - Participation in the development of a system based on the Open Source platform
+  - Building the infrastructure of the system based on containerization(docker, docker-compose)
+  - Creation of simple ETL pipelines for loading data from different sources
+  - Creation and maintenance of an ELK cluster
+  - Integration with third party API
+  - **_Technologies used:_** Python, React, Elasticsearh, Logstash, Kibana, PostgreSQL, SQL Server, Docker, gRPC.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Python Crawler Developer** @ [Kazdream Technologies](https://www.linkedin.com/company/kazdream-technologies-llc/mycompany/) _(Aug 2019 - Jan 2021)_ <br>
+  - Researched and explored open-source data using OSINT techniques
+  - Automated data collection from social networking sites, messengers and other web and mobile applications for
+Open Source Intelligence
+  - Incorporated 20+ web crawlers into a scalable and fault-tolerant API, implementing asynchronous communication
+within underlying microservices using REST and AMQP protocol
+  - **_Technologies used:_** Python, Git, Docker, PostgreSQL, MongoDB, Elasticsearch, Neo4j, RabbitMQ, Redis.
 
-```markdown
-Syntax highlighted code block
+## Volunteer Experience
+**Python Fullstack Developer** @ [Oqustudy](https://www.linkedin.com/company/oqustudy/about/) _(Spring 2021, Fall 2021)_ <br>
+  - Participation in the development of a system based on the Open Source platform
+  - Integration with custom authorization services
+  - Addition of new features on backend for extending system functionality
 
-# Header 1
-## Header 2
-### Header 3
+## Skills
+- Programming Languages: Python, Go, JS
+- DevOps: Linux, Docker, docker-compose
+- SWE: OOP patterns ,API, System Design
+- RDBS: Postgresql, sql server express
+- Tools and Frameworks: Flask, requests, django, drf, sqlalchemy, elasticsearch, kibana, logstash, mongodb, redis, RabbitMQ
 
-- Bulleted
-- List
+## Education
+**Bachelor of Engineering and Technology** @[Saken Seifullin Kazakh Agrotechnical University](https://kazatu.edu.kz/) (2016-2020)
 
-1. Numbered
-2. List
+## Languages
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rtokashev/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**English**: A2 (Pre Intermediate) <br>
+**Russian**: native
+**Kazakh**: native
+<br><br>
