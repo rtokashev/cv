@@ -40,6 +40,5 @@ within underlying microservices using REST and AMQP protocol
 ## Languages
 
 **English**: A2 (Pre Intermediate) <br>
-**Russian**: native
+**Russian**: fluent <br>
 **Kazakh**: native
-<br><br>
