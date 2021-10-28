@@ -26,6 +26,7 @@ within underlying microservices using REST and AMQP protocol
   - Participation in the development of a system based on the Open Source platform
   - Integration with custom authorization services
   - Addition of new features on backend for extending system functionality
+  - **_Technologies used:_** Python, Server-side rendering, Angular(1.3-1.4) Git, Docker, Redis, Google App Engine(GAE).
 
 ## Skills
 - Programming Languages: Python, Go, JS
