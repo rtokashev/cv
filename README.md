@@ -29,8 +29,8 @@ within underlying microservices using REST and AMQP protocol
 
 ## Skills
 - Programming Languages: Python, Go, JS
-- DevOps: Linux, Docker, docker-compose
-- SWE: OOP patterns ,API, System Design
+- DevOps: Linux, Docker, docker-compose, Gitlab CI/CD
+- SWE: OOP patterns, API, System Design
 - RDBS: Postgresql, sql server express
 - Tools and Frameworks: Flask, requests, django, drf, sqlalchemy, elasticsearch, kibana, logstash, mongodb, redis, RabbitMQ
 
