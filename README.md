@@ -5,7 +5,7 @@ Software Engineer<br>
 [Email](mailto:azerot12123@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ramil-tokashev/) / [GitHub](https://github.com/rtokashev)
 
 ## Experience
-- **Python Backend Developer** @ [Andersen LAB](https://www.linkedin.com/company/andersen-softwaredev/mycompany/) _(Jan 2022 - Feb 2022)_ <br>
+- **Python Backend Developer** @ [Andersen LAB](https://www.linkedin.com/company/andersen-softwaredev/mycompany/) _(Jan 2022 - Mar 2022)_ <br>
   - Participation in the development of microservices
   - **_Technologies used:_** Python, FastAPI, PostgreSQL, sqlalchemy, gitlab.
 
