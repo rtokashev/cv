@@ -5,7 +5,7 @@ Software Engineer with 3+ years experience<br>
 [Email](mailto:azerot12123@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ramil-tokashev/) / [GitHub](https://github.com/rtokashev)
 
 ## Experience
-- **Python Backend Team Lead** @ [KoronaPay Europe](https://ru.linkedin.com/company/koronapay-europe) _(Dec 2022 - present)_ <br>
+- **Python Backend Team Lead(Temporary)** @ [KoronaPay Europe](https://ru.linkedin.com/company/koronapay-europe) _(Dec 2022 - present)_ <br>
   - Lead a team of 2 developers and 2 QA
   - Development and impelementation of new features
   - Maintaining legacy code and microservices
