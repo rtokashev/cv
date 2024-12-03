@@ -9,11 +9,11 @@ Software Engineer with 3+ years experience<br>
   - Lead a team of 2 developers and 2 QA(temporary, during 4-5 month)
   - Development and impelementation of new features
   - Maintaining legacy code and microservices
-  - **_Technologies used:_** Python, FastAPI, aiohttp, git, gitlab CI/CD, Oracle, pytest.
+  - **_Technologies used:_** Python, FastAPI, aiohttp, git, k8s, gitlab CI/CD, Oracle, pytest.
   
 - **Python Backend Developer** @ [Andersen LAB](https://www.linkedin.com/company/andersen-softwaredev/mycompany/) _(Jan 2022 - Mar 2022)_ <br>
   - Participation in the development of microservices
-  - **_Technologies used:_** Python, FastAPI, PostgreSQL, sqlalchemy, gitlab.
+  - **_Technologies used:_** Python, FastAPI, PostgreSQL, sqlalchemy, gitlab, k8s.
 
 - **Python Backend Developer** @ [Kazdream Technologies](https://www.linkedin.com/company/kazdream-technologies-llc/mycompany/) _(Jan 2021 - Present)_ <br>
   - Participation in the development of a system based on the Open Source platform
@@ -21,7 +21,7 @@ Software Engineer with 3+ years experience<br>
   - Creation of simple ETL pipelines for loading data from different sources
   - Creation and maintenance of an ELK cluster
   - Integration with third party API
-  - **_Technologies used:_** Python, React, Elasticsearh, Logstash, Kibana, PostgreSQL, SQL Server, Docker, gRPC.
+  - **_Technologies used:_** Python, React, Elasticsearh, Logstash, Kibana, PostgreSQL, SQL Server, Docker, gRPC, k8s.
 
 - **Python Crawler Developer** @ [Kazdream Technologies](https://www.linkedin.com/company/kazdream-technologies-llc/mycompany/) _(Aug 2019 - Jan 2021)_ <br>
   - Researched and explored open-source data using OSINT techniques
@@ -29,7 +29,7 @@ Software Engineer with 3+ years experience<br>
 Open Source Intelligence
   - Incorporated 20+ web crawlers into a scalable and fault-tolerant API, implementing asynchronous communication
 within underlying microservices using REST and AMQP protocol
-  - **_Technologies used:_** Python, Git, Docker, PostgreSQL, MongoDB, Elasticsearch, Neo4j, RabbitMQ, Redis.
+  - **_Technologies used:_** Python, Git, Docker, PostgreSQL, MongoDB, Elasticsearch, Neo4j, RabbitMQ, Redis, k8s.
 
 ## Volunteer Experience
 **Python Fullstack Developer** @ [Oqustudy](https://www.linkedin.com/company/oqustudy/about/) _(Spring 2021, Fall 2021)_ <br>
@@ -40,7 +40,7 @@ within underlying microservices using REST and AMQP protocol
 
 ## Skills
 - Programming Languages: Python, Go, JS
-- DevOps: Linux, Docker, docker-compose, Gitlab CI/CD, Kubernetes
+- DevOps: Linux, Docker, docker-compose, Gitlab CI/CD, Kubernetes(k8s)
 - SWE: OOP patterns, API, System Design
 - RDBS: Postgresql, sql server express
 - Tools and Frameworks: FastAPI, aiohttp, Flask, requests, django, drf, sqlalchemy, elasticsearch, kibana, logstash, mongodb, redis, RabbitMQ, pytest
@@ -50,6 +50,6 @@ within underlying microservices using REST and AMQP protocol
 
 ## Languages
 
-**English**: A2 (Pre Intermediate) <br>
+**English**: B1 (Intermediate) <br>
 **Russian**: fluent <br>
 **Kazakh**: native
