@@ -7,7 +7,7 @@ Software Engineer with 5+ years experience<br>
 ## Experience
 - **Python/Go/Rust Backend Developer** @ [KoronaPay Europe](https://ru.linkedin.com/company/koronapay-europe) _(Apr 2022 - present)_ <br>
   - Lead a team of 2 developers and 3 QA
-  - Development and impelementation of new features, microservices on Python/Go
+  - Development and impelementation of new features, microservices on Python/Go, Python/Rust based server utility.
   - Maintaining legacy code and microservices on Python/Go/Rust
   - **_Technologies used:_** Python, Go, Rust, FastAPI, GIN, rayon, pcre2, tokio, expr, aiohttp, git, k8s, gitlab CI/CD, Oracle, pytest.
   
