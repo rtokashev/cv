@@ -15,7 +15,7 @@ Software Engineer with 5+ years experience<br>
   - Participation in the development of microservices
   - **_Technologies used:_** Python, FastAPI, PostgreSQL, sqlalchemy, gitlab, k8s.
 
-- **Python Backend Developer** @ [Kazdream Technologies](https://www.linkedin.com/company/kazdream-technologies-llc/mycompany/) _(Jan 2021 - Present)_ <br>
+- **Python Backend Developer** @ [Kazdream Technologies](https://www.linkedin.com/company/kazdream-technologies-llc/mycompany/) _(Jan 2021 - Dec 2021)_ <br>
   - Participation in the development of a system based on the Open Source platform
   - Building the infrastructure of the system based on containerization(docker, docker-compose)
   - Creation of simple ETL pipelines for loading data from different sources
