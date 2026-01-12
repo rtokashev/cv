@@ -9,6 +9,8 @@ Software Engineer with 5+ years experience<br>
   - Lead a team of 2 developers and 3 QA
   - Development and impelementation of new features, microservices on Python/Go, Python/Rust based server utility.
   - Maintaining legacy code and microservices on Python/Go/Rust
+    - Developed a high-performance Rust library for processing regular expressions with logs, with Python integration via PyO3. I implemented batch processing of text with regular expressions, optimized performance through JIT compilation and byte buffer handling, and configured a cross-platform build for x86_64 and ARM64. The library is integrated into the production log processing system.
+    - Rewrote a functional module from a monolith into a separate microservice with migration to Go for parallel computing
   - **_Technologies used:_** Python, Go, Rust, FastAPI, GIN, rayon, pcre2, tokio, expr, aiohttp, git, k8s, gitlab CI/CD, Oracle, pytest.
   
 - **Python Backend Developer** @ [Andersen LAB](https://www.linkedin.com/company/andersen-softwaredev/mycompany/) _(Jan 2022 - Mar 2022)_ <br>
