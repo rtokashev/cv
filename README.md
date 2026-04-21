@@ -5,7 +5,7 @@ Software Engineer with 5+ years experience<br>
 [Email](mailto:azerot12123@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ramil-tokashev/) / [GitHub](https://github.com/rtokashev)
 
 ## Experience
-- **Python/Go/Rust Backend Developer** @ [KoronaPay Europe](https://ru.linkedin.com/company/koronapay-europe) _(Apr 2022 - present)_ <br>
+- **Lead Python/Go/Rust Backend Developer** @ [KoronaPay Europe](https://ru.linkedin.com/company/koronapay-europe) _(Apr 2022 - present)_ <br>
   - Lead a team of 2 Back dev, 3 QA, 1 SA
   - Development and impelementation of new features, microservices on Python/Go, Python/Rust based server utility.
   - Maintaining legacy code and microservices on Python/Go/Rust
@@ -13,7 +13,7 @@ Software Engineer with 5+ years experience<br>
     - Rewrote a functional module from a monolith into a separate microservice with migration to Go for parallel computing
   - **_Technologies used:_** Python, Go, Rust, FastAPI, GIN, rayon, pcre2, tokio, expr, aiohttp, git, k8s, gitlab CI/CD, Oracle, PostgreSQL, pytest.
   
-- **Python Backend Developer** @ [Andersen LAB](https://www.linkedin.com/company/andersen-softwaredev/mycompany/) _(Jan 2022 - Mar 2022)_ <br>
+- **Senior Python Backend Developer** @ [Andersen LAB](https://www.linkedin.com/company/andersen-softwaredev/mycompany/) _(Jan 2022 - Mar 2022)_ <br>
   - Participation in the development of microservices
   - **_Technologies used:_** Python, FastAPI, PostgreSQL, sqlalchemy, gitlab, k8s.
 
